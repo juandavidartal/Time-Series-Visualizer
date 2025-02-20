@@ -1,3 +1,9 @@
-# Page View Time Series Visualizer
+# Time Series Visualizer
 
-This is the boilerplate for the Page View Time Series Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
+In this project, I analyzed the web traffic of Free Code Camp forums from June 2016 to December 2019. I created the following visualizations:
+
+1) Line Plot: Displays daily traffic.
+
+2) Bar Plot: Compares each year's average traffic for each month.
+
+3) Box Plot: Shows the year-wise trend and the month-wise seasonality.
